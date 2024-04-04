@@ -19,4 +19,4 @@ function classifyTriangle(a, b, c) {
     }
 }
 
-module.exports = {classifyTriangle} ;
+module.exports = classifyTriangle;
